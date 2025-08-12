@@ -75,3 +75,7 @@ RETURN
 
 ``` 
 
+## NOTA:
+**toda libreria que se agrege pasa el proyecto debera ser agregado a requirements.txt para facilitar el despliegue**
+
+
